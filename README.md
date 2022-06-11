@@ -10,7 +10,7 @@ Changelog:
 How To Play:
 Enter numbers in the boxes. Then, click
 "Roll The Numbers" button. Make money for
-show your luck and power to your friends!
+show your luck to your friends!
 Be careful, if you run out of money, game
 will lock itself and you'll need to close
 and rejoin the game. Good luck!
